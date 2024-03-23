@@ -35,7 +35,11 @@ const Signup = () => {
               <Label value="Your password" />
               <TextInput type="text" placeholder="Password" id="password" />
             </div>
-            <Button gradientDuoTone="purpleToPink" type="submit">
+            <Button
+              gradientDuoTone="purpleToPink"
+              type="submit"
+              className="background-animate"
+            >
               Sign Up
             </Button>
           </form>
