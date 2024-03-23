@@ -13,7 +13,7 @@ const Header = () => {
         className="self-center whitespace-nowrap text-sm sm:text-xl font-semibold dark:text-white  "
       >
         <span className="px-2 py-1 bg-gradient-to-r from-pink-500 via-red-500 to-yellow-500 background-animate rounded-lg text-white">
-          BlogSpot
+          BlogSphere
         </span>
       </Link>
       <form>

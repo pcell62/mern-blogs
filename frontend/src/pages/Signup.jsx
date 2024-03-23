@@ -46,7 +46,7 @@ const Signup = () => {
         <div className="flex-1">
           <Link to="/" className=" font-bold dark:text-white text-4xl ">
             <span className="px-2 py-1 bg-gradient-to-r from-pink-500 via-red-500 to-yellow-500 background-animate rounded-lg text-white">
-              BlogSpot
+              BlogSphere
             </span>
           </Link>
           <p className="text-sm mt-5">
